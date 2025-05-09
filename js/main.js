@@ -62,6 +62,7 @@ function fetchBookmarks(){
   }
 }
 
+
 function validateForm(siteName, siteUrl){
   if(!siteName || !siteUrl){
     alert('Please fill in the form');
